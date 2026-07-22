@@ -55,6 +55,3 @@ whatever it imports (numpy, pandas, matplotlib, seaborn, tensorflow/keras,
 h5py, folium, opencv, depending on the notebook). There's no single
 `requirements.txt` because there's no single project here.
 
-## the gif because why not
-
-![project sweep](assets/motion_project_sweep.gif)
